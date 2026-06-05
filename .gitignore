@@ -1,5 +1,6 @@
 src/
 node_modules/
+dist/
 .husky/*
 package.json
 package-lock.json
