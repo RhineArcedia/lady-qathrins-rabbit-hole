@@ -1,0 +1,6 @@
+src/
+node_modules/
+.husky/*
+package.json
+package-lock.json
+webpack.config.js
